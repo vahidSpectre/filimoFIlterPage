@@ -1,0 +1,211 @@
+@import '../styles/mixins';
+@import '../styles/variables';
+
+.filters {
+  background-color: $color_black;
+  min-height: 100vh;
+  height: fit-content;
+  width: 100vw;
+
+  &_content_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 0;
+    direction: rtl;
+    width: 85%;
+    height: fit-content;
+    min-height: 100vh;
+    background-image: url('../assests/pxfuel.jpg');
+    background-position: bottom right;
+    background-repeat: repeat;
+    background-size: contain;
+    margin: 0 auto;
+    max-width: 2000px;
+  }
+
+  &_content_container_backdrop {
+    width: 100%;
+    height: inherit;
+    min-height: 100vh;
+    background: linear-gradient(
+      180deg,
+      rgba(27, 27, 27, 0.356) 0%,
+      rgb(27, 27, 27) 18%
+    );
+    padding-top: 5rem;
+    backdrop-filter: blur(5px);
+  }
+
+  &_title {
+    align-self: flex-start;
+    color: white;
+    padding: 0 1rem 1rem 1rem;
+  }
+
+  &_content {
+    height: fit-content;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    aspect-ratio: 2;
+    max-height: 20rem;
+    gap: 10px;
+    padding: 0 1rem;
+  }
+
+  &_options_wrapper {
+    width: 60%;
+    height: 3rem;
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  &_seq_container,
+  &_filter_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: fit-content;
+    width: 15rem;
+    background: rgb(20, 20, 20);
+    transform: scaleY(0);
+    transform-origin: top;
+    transition: all 0.2s;
+
+    & label {
+      color: white;
+      white-space: nowrap;
+      display: flex;
+      align-items: center;
+      flex-direction: row-reverse;
+    }
+  }
+
+  &_filter_col_con {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  &_filter_container {
+    flex-direction: row;
+  }
+
+  &_input_show-state {
+    width: 15rem;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: rgba(26, 26, 26, 0.757);
+    padding: 0.5rem 0;
+    margin: 0.8rem 2rem;
+    margin-bottom: 0;
+    cursor: pointer !important;
+    font-size: small !important;
+
+    &:focus {
+      border: none;
+      outline: none;
+    }
+  }
+
+  &_sort_item {
+    height: fit-content;
+    width: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0.8rem 1.5rem;
+    font-size: small;
+    transition: all 0.2s;
+    border-radius: 5px;
+
+    &:hover {
+      background-color: rgba(42, 42, 42, 0.757);
+    }
+  }
+
+  &_sort_checkbox {
+    width: 1rem !important;
+    height: 1rem !important;
+    border-radius: 5px;
+    border: 2px solid white;
+    transition: all 0.2s ease-in-out;
+    position: relative;
+    margin-left: 1rem;
+    cursor: pointer;
+
+    &::after {
+      content: '\2713';
+      color: white;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      opacity: 0;
+      transition: all 0.2s ease-in-out;
+    }
+  }
+
+  &_sort_label {
+    cursor: pointer;
+  }
+
+  &_input_checkbox {
+    display: none;
+  }
+
+  &_input_checkbox:checked ~ &_sort_label * {
+    border-color: $color_orange_primary;
+  }
+
+  &_input_checkbox:checked ~ &_sort_label &_sort_checkbox::after {
+    opacity: 1;
+    color: $color_orange_primary;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .filters_content {
+    grid-template-columns: 1fr;
+  }
+  .filters_options_wrapper {
+    width: 100%;
+  }
+  .filters_content_container {
+    width: 100%;
+  }
+  .filters_filter_col_con {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .filters_content {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .filters_content {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .filters_content {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .filters_content {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+}

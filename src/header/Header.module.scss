@@ -1,0 +1,188 @@
+@import '../styles/mixins';
+@import '../styles/variables';
+
+.header {
+  @include flexCenter;
+  width: 100%;
+  height: 4rem;
+  background-color: rgb(4, 4, 4);
+  backdrop-filter: blur(5px);
+  position: fixed;
+  top: 0;
+  right: -50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+
+  &_content {
+    width: 98%;
+    height: 4rem;
+    margin: 0 auto;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    max-width: 2000px;
+  }
+
+  &_divider {
+    height: 40%;
+    width: 1px;
+    background-color: rgb(87, 87, 87);
+    margin: 0 0 0 20px;
+    display: none;
+  }
+
+  &_rightSide,
+  &_leftSide {
+    width: fit-content;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+  }
+
+  &_leftSide {
+    flex-direction: row;
+  }
+
+  &_logo {
+    @include flexCenter;
+    width: 7rem;
+    height: inherit;
+    cursor: pointer;
+    justify-content: end;
+    margin-left: 1rem;
+  }
+
+  &_logo_img {
+    width: 100%;
+    height: 70%;
+    object-fit: contain;
+  }
+
+  &_btn_wrapper {
+    width: fit-content;
+    height: 100%;
+    display: none;
+    flex-direction: row-reverse;
+    align-items: center;
+    list-style: none;
+  }
+
+  &_btn {
+    width: 100%;
+    height: 100% !important;
+    direction: rtl;
+    color: white !important;
+    margin-left: 10px !important;
+    transition: color 0.2s !important;
+    white-space: nowrap;
+
+    &:hover {
+      color: $color_orange_primary !important;
+      * {
+        fill: $color_orange_primary !important;
+      }
+    }
+  }
+
+  &_fire_icon {
+    width: 1.3rem !important;
+    height: 1.3rem !important;
+    margin-left: 10px;
+    transition: fill 0.2s !important;
+  }
+
+  &_btn_left {
+    height: 70%;
+    &:nth-of-type(2) {
+      margin-left: 15px;
+    }
+  }
+
+  &_btn_login {
+    color: white !important;
+    background-color: rgb(63, 63, 63) !important;
+    transition: all 0.4s !important;
+    font-weight: bold;
+
+    &:hover {
+      background-color: rgb(77, 77, 77) !important;
+    }
+  }
+  &_btn_subscribe {
+    color: white !important;
+    background-color: $color_green_1 !important;
+    transition: all 0.4s !important;
+    font-weight: bold;
+    white-space: nowrap;
+
+    &:hover {
+      background-color: $color_greesn_hover !important;
+    }
+  }
+
+  &_smallscreen_wrapper {
+    @include flexCenter;
+    width: 4rem;
+    height: 70%;
+    border-radius: 5px !important;
+    position: relative;
+    background-color: rgb(63, 63, 63) !important;
+    transition: all 0.4s !important;
+
+    &:hover {
+      background-color: rgb(77, 77, 77) !important;
+    }
+  }
+
+  &_smallscreen_menu {
+    width: fit-content;
+    height: fit-content;
+    background-color: rgba(0, 0, 0, 0.897);
+    position: absolute;
+    top: 100%;
+    list-style: none;
+    transition: all 0.2s;
+    transform-origin: top;
+    border-radius: 5px;
+
+    & li {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      width: 100%;
+      border-radius: 5px;
+      padding: 0.2rem 0;
+      &:hover {
+        background-color: rgba(36, 36, 36, 0.733);
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .header_logo {
+    margin-left: 2rem;
+  }
+  .header_divider {
+    display: block;
+  }
+  .header_content {
+    width: 85%;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .header_btn_wrapper {
+    display: flex;
+  }
+  .header_smallscreen_wrapper {
+    display: none !important;
+  }
+  .header_content {
+    width: 85%;
+  }
+}

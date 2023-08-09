@@ -1,0 +1,2190 @@
+[
+  {
+    "type": "movies",
+    "id": "133615",
+    "link_type": "movie",
+    "link_key": "yon1h",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "133615",
+    "uid": "yon1h",
+    "movie_title": "ایران، روز دوم",
+    "movie_title_en": "Iran, 2nd Day",
+    "tag_id": "1000053",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "دختر بچه ای از مدرسه تعطیل شده است و کسی نیست که به دنبال او بیاید. روایت دو روز از زندگی او را می‌بینیم که باعث تغییر سرنوشتش می‌شود...",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_133615_949.jpg",
+    "publish_date": "2023-04-19 00:00:00",
+    "age_range": "15-18",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_133615_56186-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_133615_56186-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_133615_56186-b.jpg"
+    },
+    "rate_avrage": "3.58",
+    "avg_rate_label": "72%",
+    "pro_year": "1398",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "drama",
+        "title": "درام",
+        "link_type": "list",
+        "link_key": "drama"
+      },
+      {
+        "title_en": "family",
+        "title": "خانوادگی",
+        "link_type": "list",
+        "link_key": "family"
+      }
+    ],
+    "duration": {
+      "value": 898,
+      "text": " و 14 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "کیانا منتجبی",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "133209",
+    "link_type": "movie",
+    "link_key": "7uet9",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "133209",
+    "uid": "7uet9",
+    "movie_title": "جنجال در خانه",
+    "movie_title_en": "Commotion at Home",
+    "tag_id": "1000053",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "اعلا مدیری متشخص و موفق است که در کارش نیز موفق می باشد اما او در خانه و بین خانواده بسیار مظلوم است.\r\nاو توسط دوستش حسام با انجمنی آشنا می شود که آموزش این مردان را بر عهده دارد. حضور اعلا در این انجمن و شرکت در این کلاسها و روبرو شدن با دوستان جدید ماجرا و مشکلاتی برایش به وجود می آورد تا ...",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_133209_460.jpg",
+    "publish_date": "2023-04-09 00:00:00",
+    "age_range": "18-99",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_133209_55749-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_133209_55749-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_133209_55749-b.jpg"
+    },
+    "rate_avrage": "2.67",
+    "avg_rate_label": "54%",
+    "pro_year": "1400",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "drama",
+        "title": "درام",
+        "link_type": "list",
+        "link_key": "drama"
+      },
+      {
+        "title_en": "family",
+        "title": "خانوادگی",
+        "link_type": "list",
+        "link_key": "family"
+      }
+    ],
+    "duration": {
+      "value": 5353,
+      "text": "یک ساعت و 29 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "محمد کریمی",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "133208",
+    "link_type": "movie",
+    "link_key": "c3x4a",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "133208",
+    "uid": "c3x4a",
+    "movie_title": "ودا",
+    "movie_title_en": "Veda",
+    "tag_id": "1000053",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "تمامی اتفاقات فیلم در یک خانه قدیمی و مرموز رخ می دهد. مردی با مرور خاطرات و کابوس هایش متوجه می شود هیچ چیز آنطور که در این خانه به نظر می رسد نیست و حقیقت وحشتناک تر از آن کابوس هایی است که می بیند.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_133208_622.jpg",
+    "publish_date": "2023-04-09 00:00:00",
+    "age_range": "15-18",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_133208_55686-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_133208_55686-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_133208_55686-b.jpg"
+    },
+    "rate_avrage": "3.43",
+    "avg_rate_label": "69%",
+    "pro_year": "1400",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "drama",
+        "title": "درام",
+        "link_type": "list",
+        "link_key": "drama"
+      },
+      {
+        "title_en": "family",
+        "title": "خانوادگی",
+        "link_type": "list",
+        "link_key": "family"
+      }
+    ],
+    "duration": {
+      "value": 1240,
+      "text": " و 20 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "داریوش جعفری",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "128504",
+    "link_type": "movie",
+    "link_key": "p2ov1",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "128504",
+    "uid": "p2ov1",
+    "movie_title": "کاتی و ستاره",
+    "movie_title_en": "Katy and Setareh",
+    "tag_id": "1000067",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "داستان یک موجود فضایی است که از سیاره خود به زمین سفر می کند تا همزاد گمشده اش کاتی را بیابد. کاتی پیش از این برای یافتن زیباترین چیز به زمین آمده و به سیاره خود برنگشته است، کاتی وقتی به زمین می آید با دخترکی به نام ستاره جستجویش را آغاز می کند …",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_128504_927.jpg",
+    "publish_date": "2022-12-06 00:00:00",
+    "age_range": "15-18",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_128504_49717-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_128504_49717-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_128504_49717-b.jpg"
+    },
+    "rate_avrage": "4.07",
+    "avg_rate_label": "82%",
+    "pro_year": "1397",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "drama",
+        "title": "درام",
+        "link_type": "list",
+        "link_key": "drama"
+      },
+      {
+        "title_en": "family",
+        "title": "خانوادگی",
+        "link_type": "list",
+        "link_key": "family"
+      }
+    ],
+    "duration": {
+      "value": 4914,
+      "text": "یک ساعت و 21 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "رضا مجلسی",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "129966",
+    "link_type": "movie",
+    "link_key": "zwr3s",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "129966",
+    "uid": "zwr3s",
+    "movie_title": "نازی آباد نواب نیاوران",
+    "movie_title_en": "Nazi Abad Navvab Niavaran",
+    "tag_id": "1000067",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "بخاطر واردات کالای چینی کارخانه تعطیل شده و سه برادر به نام های محسن و حمید و حسام بیکار می شوند. آنها در سودای مهاجرت قاچاقی به اروپا درگیر حوادث ناگواری می شوند.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_129966_535.jpg",
+    "publish_date": "2023-01-01 00:00:00",
+    "age_range": "15-18",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_129966_51369-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_129966_51369-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_129966_51369-b.jpg"
+    },
+    "rate_avrage": "2.28",
+    "avg_rate_label": "46%",
+    "pro_year": "1400",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "drama",
+        "title": "درام",
+        "link_type": "list",
+        "link_key": "drama"
+      },
+      {
+        "title_en": "family",
+        "title": "خانوادگی",
+        "link_type": "list",
+        "link_key": "family"
+      }
+    ],
+    "duration": {
+      "value": 4895,
+      "text": "یک ساعت و 21 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "مرتضی ذوالفقاری نسب",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "2635",
+    "link_type": "movie",
+    "link_key": "tmkA0",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "2635",
+    "uid": "tmkA0",
+    "movie_title": "کلاف",
+    "movie_title_en": "kalaf",
+    "tag_id": "1000056",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "داستان فیلم نیز از جایی آغاز می شود که فریبرز (علی انصاریان) با پیشنهاد انجام کارهای خلاف مواجه می شود و برای کسب درآمد، شروع به کارهای خلاف و شرورانه می کند.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_2635_1.jpg",
+    "publish_date": "2016-01-16 16:55:30",
+    "age_range": "15-18",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_2635_914-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_2635_914-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_2635_914-b.jpg"
+    },
+    "rate_avrage": "3.91",
+    "avg_rate_label": "79%",
+    "pro_year": "1393",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "action",
+        "title": "اکشن",
+        "link_type": "list",
+        "link_key": "action"
+      },
+      {
+        "title_en": "adventure",
+        "title": "ماجراجویی",
+        "link_type": "list",
+        "link_key": "adventure"
+      }
+    ],
+    "duration": {
+      "value": 5561,
+      "text": "یک ساعت و 32 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "شهرام شاه حسینی",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "212",
+    "link_type": "movie",
+    "link_key": "wOGi4",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "212",
+    "uid": "wOGi4",
+    "movie_title": "کات",
+    "movie_title_en": "cut",
+    "tag_id": "1000056",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": false,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "دو سارق مسلح به قصد سرقت وارد یک مغازه صرافی می شوند و پس از کشتن صاحب مغازه، 5/2 میلیون دلار را به سرقت می برند. اما این همه ماجرا نیست چرا که ...",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_212_1.jpg",
+    "publish_date": "2014-07-16 09:16:22",
+    "age_range": "15-18",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_212_489-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_212_489-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_212_489-b.jpg"
+    },
+    "rate_avrage": "4.11",
+    "avg_rate_label": "83%",
+    "pro_year": "1387",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "action",
+        "title": "اکشن",
+        "link_type": "list",
+        "link_key": "action"
+      },
+      {
+        "title_en": "crime",
+        "title": "جنایی",
+        "link_type": "list",
+        "link_key": "crime"
+      }
+    ],
+    "duration": {
+      "value": 5578,
+      "text": "یک ساعت و 32 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": [""],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "وحید باقری",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "349",
+    "link_type": "movie",
+    "link_key": "24ubD",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "349",
+    "uid": "24ubD",
+    "movie_title": "محکومین",
+    "movie_title_en": "convicted",
+    "tag_id": "1000056",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": false,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "در گرماگرم انقلاب چند مأمور امنیتی فرزند یك جواهر فروش را به قصد اخاذی می ربایند و پس از گرفتن مقدار زیادی جواهر او را رها می كنند. عباس و پرویز دو تن از ربایندگان، همدستان خود را فریب می دهند و با جواهرات می گریزند.",
+    "cover": null,
+    "publish_date": "2014-07-22 14:41:07",
+    "age_range": "15-18",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_349_173-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_349_173-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_349_173-b.jpg"
+    },
+    "rate_avrage": "3.89",
+    "avg_rate_label": "78%",
+    "pro_year": "1366",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "action",
+        "title": "اکشن",
+        "link_type": "list",
+        "link_key": "action"
+      },
+      {
+        "title_en": "thriller",
+        "title": "هیجان انگیز",
+        "link_type": "list",
+        "link_key": "thriller"
+      }
+    ],
+    "duration": {
+      "value": 4440,
+      "text": "یک ساعت و 14 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": [""],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "ناصر محمدي",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "126960",
+    "link_type": "movie",
+    "link_key": "rixkv",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "126960",
+    "uid": "rixkv",
+    "movie_title": "انتقام",
+    "movie_title_en": "Revenge",
+    "tag_id": "1000056",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "سروان امیر جان نثار ؛ مامور مخفی نیروی انتظامی است که پس از بررسی های لازم ، امیر به باند قاچاق اسلحه نفوذ می کند . در این زمان باند قاچاق اسلحه قرار است یک معامله بزرگ انجام بدهد که با ورود امیر به این ماجرا ، اتفاقات خطرناکی برای باند قاچاق و امیر و خانواده اش رخ می دهد ، تا اینکه . . .",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_126960_776.jpg",
+    "publish_date": "2022-11-08 00:00:00",
+    "age_range": "15-18",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_126960_47868-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_126960_47868-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_126960_47868-b.jpg"
+    },
+    "rate_avrage": "3.09",
+    "avg_rate_label": "62%",
+    "pro_year": "1390",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "action",
+        "title": "اکشن",
+        "link_type": "list",
+        "link_key": "action"
+      },
+      {
+        "title_en": "crime",
+        "title": "جنایی",
+        "link_type": "list",
+        "link_key": "crime"
+      }
+    ],
+    "duration": {
+      "value": 5180,
+      "text": "یک ساعت و 26 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "حسن خلیلی",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "131247",
+    "link_type": "movie",
+    "link_key": "3ripb",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "131247",
+    "uid": "3ripb",
+    "movie_title": "سلفی با دموکراسی",
+    "movie_title_en": "Selfie With Democracy",
+    "tag_id": "1000060",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "«سلفی با دموکراسی»، داستانی متفاوت و ماورایی از زندگی کسانی است که در جنگ تحمیلی حضور داشته اند. داستان این فیلم در دفتر کار خدا و با حضور فرشته های سمت راست و چپ شانه اتفاق می افتد. این فیلم به نحوی ادامه فیلم «دموکراسی تو روز روشن» است.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_131247_159.jpg",
+    "publish_date": "2023-02-11 08:00:00",
+    "age_range": "15-18",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_131247_53131-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_131247_53131-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_131247_53131-b.jpg"
+    },
+    "rate_avrage": "4.18",
+    "avg_rate_label": "84%",
+    "pro_year": "1398",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "comedy",
+        "title": "کمدی",
+        "link_type": "list",
+        "link_key": "comedy"
+      },
+      {
+        "title_en": "drama",
+        "title": "درام",
+        "link_type": "list",
+        "link_key": "drama"
+      }
+    ],
+    "duration": {
+      "value": 5628,
+      "text": "یک ساعت و 33 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": true,
+      "text": "زیرنویس دارد"
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "علی عطشانی",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "126965",
+    "link_type": "movie",
+    "link_key": "0rjwb",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "126965",
+    "uid": "0rjwb",
+    "movie_title": "گلی جان",
+    "movie_title_en": "Goli Jaan",
+    "tag_id": "1000060",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "گلی جان ؛ داستان شخصی به نام عزیز خان است که بسیار آدم خرافاتی است و چند سالی می شود که یک ماهی قرمز به نام گلی جان را از پسر عمویش هدیه گرفته است . از آن سال هر اتفاق خوبی که در خانواده رخ می دهد، عزیز خان آن را به گلی جان ربط می دهد . عزیز خان هر سال چند روز قبل از عید نوروز به همراه خانواده به باغ پسر عمو می رود و طی مراسمی ماهی را داخل تنگ مخصوص می اندازد و سر سفره عید می گذارد . عزیز خان اعتقاد دارد که خاص بودن این ماهی سر سفره هفت سین برایش شانس می آورد ؛ در همان شب اول عید تنگ ماهی به طور اتفاقی می شکند و ماهی می میرد و خانواده در گیر ماجراهایی می شوند ، اما . . .",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_126965_106.jpg",
+    "publish_date": "2022-11-08 00:00:00",
+    "age_range": "18-99",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_126965_47874-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_126965_47874-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_126965_47874-b.jpg"
+    },
+    "rate_avrage": "3.08",
+    "avg_rate_label": "62%",
+    "pro_year": "1399",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "comedy",
+        "title": "کمدی",
+        "link_type": "list",
+        "link_key": "comedy"
+      },
+      {
+        "title_en": "family",
+        "title": "خانوادگی",
+        "link_type": "list",
+        "link_key": "family"
+      }
+    ],
+    "duration": {
+      "value": 5642,
+      "text": "یک ساعت و 34 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "مجید وحیدیان",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "124640",
+    "link_type": "movie",
+    "link_key": "hysix",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "124640",
+    "uid": "hysix",
+    "movie_title": "شانس عشق تصادف - پشت صحنه",
+    "movie_title_en": "Shans Eshgh Tasadof - BTS",
+    "tag_id": "1000060",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": false,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "backstage",
+      "rel_id": "16661",
+      "rel_uid": "XfSBC",
+      "rel_title": "شانس عشق تصادف",
+      "rel_type_txt": "پشت صحنه"
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "گزیده ای از مراحل ساخت فیلم شانس عشق تصادف",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_124640_597.jpg",
+    "publish_date": "2022-10-11 00:00:00",
+    "age_range": "18-99",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_124640_45348-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_124640_45348-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_124640_45348-b.jpg"
+    },
+    "rate_avrage": "4.04",
+    "avg_rate_label": "81%",
+    "pro_year": "1393",
+    "imdb_rate": "2.80",
+    "categories": [
+      {
+        "title_en": "comedy",
+        "title": "کمدی",
+        "link_type": "list",
+        "link_key": "comedy"
+      },
+      {
+        "title_en": "drama",
+        "title": "درام",
+        "link_type": "list",
+        "link_key": "drama"
+      }
+    ],
+    "duration": {
+      "value": 6911,
+      "text": "یک ساعت و 55 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "آرش معیریان",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "200",
+    "link_type": "movie",
+    "link_key": "Mah8O",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "200",
+    "uid": "Mah8O",
+    "movie_title": "سیرک بزرگ",
+    "movie_title_en": "The Big Circus",
+    "tag_id": "1000060",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "فیلم سیرک بزرگ در ژانر اجتماعی محصول سال 1370 است. اکبر خواجویی کارگردانی این فیلم را به عهده دارد. در این فیلم بازیگرانی چون اکبر عبدی، حسین محب اهری، غلامحسین لطفی و... به بازیگری پرداخته اند. در خلاصه داستان این فیلم آمده است که بین سال های 45 و 41 مهاراجه راجو یك سیرك باز ورشكسته، برای ادامه بقای حیوانات باقیمانده سیرك و خانواده اش، مجبور می شود در یكی از شهرهای كوچك ایران نمایشی برپا كند. نمایش با موفقیت روبرو نمی شود.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_200_157.jpg",
+    "publish_date": "2022-04-27 00:00:00",
+    "age_range": "15-18",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_200_30035-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_200_30035-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_200_30035-b.jpg"
+    },
+    "rate_avrage": "4.11",
+    "avg_rate_label": "83%",
+    "pro_year": "1370",
+    "imdb_rate": "6.20",
+    "categories": [
+      {
+        "title_en": "family",
+        "title": "خانوادگی",
+        "link_type": "list",
+        "link_key": "family"
+      },
+      {
+        "title_en": "comedy",
+        "title": "کمدی",
+        "link_type": "list",
+        "link_key": "comedy"
+      }
+    ],
+    "duration": {
+      "value": 5237,
+      "text": "یک ساعت و 27 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "اکبر خواجویی",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "1658",
+    "link_type": "movie",
+    "link_key": "0Uvhr",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "1658",
+    "uid": "0Uvhr",
+    "movie_title": "تلخ اما شیرین",
+    "movie_title_en": "Bitter But Sweet",
+    "tag_id": "1000060",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": false,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "دو دوست، یکی شیطنت دارد و دیگری سعی می کند راه راست را انتخاب کند که در اثر آشنایی با دختری، دوست شرور سرش به سنگ می خورد و…",
+    "cover": null,
+    "publish_date": "2014-11-05 19:32:50",
+    "age_range": "15-18",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_1658_381-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_1658_381-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_1658_381-b.jpg"
+    },
+    "rate_avrage": "4.25",
+    "avg_rate_label": "85%",
+    "pro_year": "1392",
+    "imdb_rate": "0.00",
+    "categories": [
+      {
+        "title_en": "comedy",
+        "title": "کمدی",
+        "link_type": "list",
+        "link_key": "comedy"
+      },
+      {
+        "title_en": "family",
+        "title": "خانوادگی",
+        "link_type": "list",
+        "link_key": "family"
+      }
+    ],
+    "duration": {
+      "value": 5040,
+      "text": "یک ساعت و 24 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "ایران",
+        "country_en": "iran"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": false,
+      "text": ""
+    },
+    "audio": {
+      "languages": ["fa"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "جواد مزد آبادی",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "134405",
+    "link_type": "movie",
+    "link_key": "hn4tr",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "134405",
+    "uid": "hn4tr",
+    "movie_title": "ربات ها",
+    "movie_title_en": "Robots",
+    "tag_id": "1000059",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "چارلز اهل تعهد به رابطه نیست و الین هم زنی است که فقط به دنبال پول مردان است. وقتی این دو نفر مجبور می شوند با هم ربات های بدل خود را دنبال کنند، متوجه معنای انسانیت می شوند.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_134405_373.jpg",
+    "publish_date": "2023-05-20 20:00:00",
+    "age_range": "18-99",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_134405_57219-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_134405_57219-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_134405_57219-b.jpg"
+    },
+    "rate_avrage": "3.77",
+    "avg_rate_label": "76%",
+    "pro_year": "2023",
+    "imdb_rate": "5.60",
+    "categories": [
+      {
+        "title_en": "comedy",
+        "title": "کمدی",
+        "link_type": "list",
+        "link_key": "comedy"
+      },
+      {
+        "title_en": "romance",
+        "title": "عاشقانه",
+        "link_type": "list",
+        "link_key": "romance"
+      }
+    ],
+    "duration": {
+      "value": 4702,
+      "text": "یک ساعت و 18 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "آمریکا",
+        "country_en": "america"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": true,
+      "text": "زیرنویس دارد"
+    },
+    "audio": {
+      "languages": ["en"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "Anthony Hines - Casper Christensen",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "134136",
+    "link_type": "movie",
+    "link_key": "x9e61",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "134136",
+    "uid": "x9e61",
+    "movie_title": "کار فردا",
+    "movie_title_en": "The Tomorrow Job",
+    "tag_id": "1000059",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "گروهی از سارقان با استفاده از ماده ای که به آن ها امکان سفر در زمان را می دهد، خود کنونی شان را به جای خود آینده شان می گذارند تا بتوانند سرقت های بزرگ را عملی کنند.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_134136_491.jpg",
+    "publish_date": "2023-05-12 08:00:00",
+    "age_range": "18-99",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_134136_56920-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_134136_56920-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_134136_56920-b.jpg"
+    },
+    "rate_avrage": "3.65",
+    "avg_rate_label": "73%",
+    "pro_year": "2023",
+    "imdb_rate": "4.60",
+    "categories": [
+      {
+        "title_en": "action",
+        "title": "اکشن",
+        "link_type": "list",
+        "link_key": "action"
+      },
+      {
+        "title_en": "sci-fi",
+        "title": "علمی تخیلی",
+        "link_type": "list",
+        "link_key": "sci-fi"
+      }
+    ],
+    "duration": {
+      "value": 6166,
+      "text": "یک ساعت و 42 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "کانادا",
+        "country_en": "canada"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": true,
+      "text": "زیرنویس دارد"
+    },
+    "audio": {
+      "languages": ["en"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "Bruce Wemple",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "133104",
+    "link_type": "movie",
+    "link_key": "lzfhd",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "133104",
+    "uid": "lzfhd",
+    "movie_title": "دریاچه",
+    "movie_title_en": "The Lake",
+    "tag_id": "1000059",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "«دریاچه»، داستان تخم یک هیولا است که از دریاچه بیرون آمده و همه مردم شهر را از بین می برد.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_133104_335.jpg",
+    "publish_date": "2023-04-09 00:00:00",
+    "age_range": "18-99",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_133104_55547-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_133104_55547-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_133104_55547-b.jpg"
+    },
+    "rate_avrage": "3.57",
+    "avg_rate_label": "72%",
+    "pro_year": "2022",
+    "imdb_rate": "3.80",
+    "categories": [
+      {
+        "title_en": "horror",
+        "title": "وحشت",
+        "link_type": "list",
+        "link_key": "horror"
+      },
+      {
+        "title_en": "sci-fi",
+        "title": "علمی تخیلی",
+        "link_type": "list",
+        "link_key": "sci-fi"
+      }
+    ],
+    "duration": {
+      "value": 6208,
+      "text": "یک ساعت و 43 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "تایلند",
+        "country_en": "thailand"
+      },
+      {
+        "country": "استرالیا",
+        "country_en": "australia"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": true,
+      "text": "زیرنویس دارد"
+    },
+    "audio": {
+      "languages": ["th"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "Lee Thongkham - Aqing Xu",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "131156",
+    "link_type": "movie",
+    "link_key": "ljgcf",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "131156",
+    "uid": "ljgcf",
+    "movie_title": "معامله",
+    "movie_title_en": "The Deal",
+    "tag_id": "1000059",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "پس از آنکه یک بیماری همه گیر بی سابقه جان انسان ها را به یغما می برد، مادری برای نجات دختر بیمارش خودش را به آب و آتش می زند، حتی اگر به قیمت زندگی خودش تمام شود.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_131156_281.jpg",
+    "publish_date": "2023-02-11 08:00:00",
+    "age_range": "18-99",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_131156_52968-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_131156_52968-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_131156_52968-b.jpg"
+    },
+    "rate_avrage": "3.82",
+    "avg_rate_label": "77%",
+    "pro_year": "2022",
+    "imdb_rate": "4.60",
+    "categories": [
+      {
+        "title_en": "sci-fi",
+        "title": "علمی تخیلی",
+        "link_type": "list",
+        "link_key": "sci-fi"
+      },
+      {
+        "title_en": "thriller",
+        "title": "هیجان انگیز",
+        "link_type": "list",
+        "link_key": "thriller"
+      }
+    ],
+    "duration": {
+      "value": 5477,
+      "text": "یک ساعت و 31 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "آمریکا",
+        "country_en": "america"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": true,
+      "text": "زیرنویس دارد"
+    },
+    "audio": {
+      "languages": ["en"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "Orsi Nagypal",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "128454",
+    "link_type": "movie",
+    "link_key": "0l5bj",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "128454",
+    "uid": "0l5bj",
+    "movie_title": "جنگجویان آینده",
+    "movie_title_en": "Warriors of Future",
+    "tag_id": "1000059",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "یک شهاب سنگ پای فرازمینی ها را به زمین باز می کند. هنگامی که موجودات بیگانه قدرتمند تهدیدی برای زندگی همه انسان ها می شوند، نیروهای زبده فرمانده سینگ لی تقریباً از بین می روند و سرباز بازمانده، تای لوی، توطئه بزرگتری را کشف می کند.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_128454_283.jpg",
+    "publish_date": "2022-12-09 08:00:00",
+    "age_range": "18-99",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_128454_49662-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_128454_49662-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_128454_49662-b.jpg"
+    },
+    "rate_avrage": "4.50",
+    "avg_rate_label": "90%",
+    "pro_year": "2022",
+    "imdb_rate": "5.60",
+    "categories": [
+      {
+        "title_en": "action",
+        "title": "اکشن",
+        "link_type": "list",
+        "link_key": "action"
+      },
+      {
+        "title_en": "adventure",
+        "title": "ماجراجویی",
+        "link_type": "list",
+        "link_key": "adventure"
+      }
+    ],
+    "duration": {
+      "value": 6074,
+      "text": "یک ساعت و 41 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "هنگ کنگ",
+        "country_en": "hong kong"
+      }
+    ],
+    "dubbed": {
+      "enable": true,
+      "text": "دوبله شده"
+    },
+    "subtitle": {
+      "enable": true,
+      "text": "زیرنویس دارد"
+    },
+    "audio": {
+      "languages": ["fa", "ko"],
+      "isMultiLanguage": true
+    },
+    "language_info": {
+      "flag": "isDubbed",
+      "text": "دوبله شده"
+    },
+    "director": "Yuen Fai Ng",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "124678",
+    "link_type": "movie",
+    "link_key": "dbquc",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "124679",
+    "uid": "dbquc",
+    "movie_title": "شریک زندگی",
+    "movie_title_en": "Significant Other",
+    "tag_id": "1000059",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "«شریک زندگی»، عرضه شده بر پلتفرم پارامونت پلاس، داستان زوج جوانی است که با پای پیاده و کوله پشتی به منطقه ای دورافتاده در شمال غربی اقیانوس آرام می روند. آن دو وقایع شومی را از سر می گذرانند و متوجه می شوند که هیچ چیز آنجا آنطور که به نظر می رسد نیست.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_124679_968.jpg",
+    "publish_date": "2022-10-07 22:20:00",
+    "age_range": "18-99",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_124679_45379-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_124679_45379-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_124679_45379-b.jpg"
+    },
+    "rate_avrage": "3.26",
+    "avg_rate_label": "66%",
+    "pro_year": "2022",
+    "imdb_rate": "5.70",
+    "categories": [
+      {
+        "title_en": "drama",
+        "title": "درام",
+        "link_type": "list",
+        "link_key": "drama"
+      },
+      {
+        "title_en": "sci-fi",
+        "title": "علمی تخیلی",
+        "link_type": "list",
+        "link_key": "sci-fi"
+      }
+    ],
+    "duration": {
+      "value": 4947,
+      "text": "یک ساعت و 22 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "آمریکا",
+        "country_en": "america"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": true,
+      "text": "زیرنویس دارد"
+    },
+    "audio": {
+      "languages": ["en"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "Dan Berk - Robert Olsen",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  },
+  {
+    "type": "movies",
+    "id": "124679",
+    "link_type": "movie",
+    "link_key": "dbquc",
+    "theme": "thumbnail",
+    "output_type": "movie",
+    "movie_id": "124679",
+    "uid": "dbquc",
+    "movie_title": "شریک زندگی",
+    "movie_title_en": "Significant Other",
+    "tag_id": "1000059",
+    "serial": {
+      "enable": false,
+      "parent_title": "",
+      "season_id": 0,
+      "serial_part": "",
+      "part_text": "",
+      "season_text": "",
+      "last_part": ""
+    },
+    "watermark": true,
+    "HD": true,
+    "watch_list_action": "watch",
+    "commingsoon_txt": "",
+    "rel_data": {
+      "rel_type": "none",
+      "rel_id": "",
+      "rel_uid": null,
+      "rel_title": null,
+      "rel_type_txt": ""
+    },
+    "badge": {
+      "free": false,
+      "backstage": false,
+      "vision": false,
+      "hear": false,
+      "online_release": false,
+      "exclusive": false,
+      "commingsoon": false,
+      "info": []
+    },
+    "rate_enable": true,
+    "rate_enable_by_cnt": true,
+    "descr": "«شریک زندگی»، عرضه شده بر پلتفرم پارامونت پلاس، داستان زوج جوانی است که با پای پیاده و کوله پشتی به منطقه ای دورافتاده در شمال غربی اقیانوس آرام می روند. آن دو وقایع شومی را از سر می گذرانند و متوجه می شوند که هیچ چیز آنجا آنطور که به نظر می رسد نیست.",
+    "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_124679_968.jpg",
+    "publish_date": "2022-10-07 22:20:00",
+    "age_range": "18-99",
+    "pic": {
+      "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_124679_45379-s.jpg",
+      "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_124679_45379-m.jpg",
+      "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_124679_45379-b.jpg"
+    },
+    "rate_avrage": "3.26",
+    "avg_rate_label": "66%",
+    "pro_year": "2022",
+    "imdb_rate": "5.70",
+    "categories": [
+      {
+        "title_en": "drama",
+        "title": "درام",
+        "link_type": "list",
+        "link_key": "drama"
+      },
+      {
+        "title_en": "sci-fi",
+        "title": "علمی تخیلی",
+        "link_type": "list",
+        "link_key": "sci-fi"
+      }
+    ],
+    "duration": {
+      "value": 4947,
+      "text": "یک ساعت و 22 دقیقه"
+    },
+    "countries": [
+      {
+        "country": "آمریکا",
+        "country_en": "america"
+      }
+    ],
+    "dubbed": {
+      "enable": false,
+      "text": ""
+    },
+    "subtitle": {
+      "enable": true,
+      "text": "زیرنویس دارد"
+    },
+    "audio": {
+      "languages": ["en"],
+      "isMultiLanguage": false
+    },
+    "language_info": {
+      "flag": "hasSubtitle",
+      "text": "زیرنویس دارد"
+    },
+    "director": "Dan Berk - Robert Olsen",
+    "last_watch": null,
+    "freemium": false,
+    "position": null,
+    "sid": null,
+    "uuid": null
+  }
+]
