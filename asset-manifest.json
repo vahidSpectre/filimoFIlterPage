@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/filimoFIlterPage/static/css/main.8182e336.css",
+    "main.js": "/filimoFIlterPage/static/js/main.861c3682.js",
+    "static/js/787.b509726c.chunk.js": "/filimoFIlterPage/static/js/787.b509726c.chunk.js",
+    "static/media/pxfuel.jpg": "/filimoFIlterPage/static/media/pxfuel.17eb42e9ad8516d7898d.jpg",
+    "static/media/hg429_desktop_1_v1.jpeg": "/filimoFIlterPage/static/media/hg429_desktop_1_v1.279cd54824ef40c26089.jpeg",
+    "static/media/star.png": "/filimoFIlterPage/static/media/star.5f5ecf4f75aeebda3241.png",
+    "static/media/FontsFree-Net-ir_sans.ttf": "/filimoFIlterPage/static/media/FontsFree-Net-ir_sans.b405362106aecf6bb79b.ttf",
+    "static/media/logo--color-white.svg": "/filimoFIlterPage/static/media/logo--color-white.dda43e919892e5a5b59f6e26d6a22f05.svg",
+    "static/media/logo--color-white2.svg": "/filimoFIlterPage/static/media/logo--color-white2.34b16db70fbd25ef3a0cb2fdfb89868c.svg",
+    "static/media/icon--white.svg": "/filimoFIlterPage/static/media/icon--white.180bbb161eb87220d73f6071ecdcc0e4.svg",
+    "static/media/global-svgrepo-com.svg": "/filimoFIlterPage/static/media/global-svgrepo-com.a51b466eedfcdb7cd903ecd9b2cd5964.svg",
+    "static/media/director-chair-svgrepo-com.svg": "/filimoFIlterPage/static/media/director-chair-svgrepo-com.5e064dd59932af494ba01dbd8eea4073.svg",
+    "static/media/high-quality-svgrepo-com.svg": "/filimoFIlterPage/static/media/high-quality-svgrepo-com.cd390127681b1a3ef8c978e44782d627.svg",
+    "static/media/folder-svgrepo-com.svg": "/filimoFIlterPage/static/media/folder-svgrepo-com.29e078db102a7319ef9f51b69f0be163.svg",
+    "static/media/fire-svgrepo-com.svg": "/filimoFIlterPage/static/media/fire-svgrepo-com.cce0902cfa45db275e811a43a73ea869.svg",
+    "static/media/time-svgrepo-com.svg": "/filimoFIlterPage/static/media/time-svgrepo-com.bd1095d22b49818066f5aeb7f881c06c.svg",
+    "index.html": "/filimoFIlterPage/index.html",
+    "main.8182e336.css.map": "/filimoFIlterPage/static/css/main.8182e336.css.map",
+    "main.861c3682.js.map": "/filimoFIlterPage/static/js/main.861c3682.js.map",
+    "787.b509726c.chunk.js.map": "/filimoFIlterPage/static/js/787.b509726c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8182e336.css",
+    "static/js/main.861c3682.js"
+  ]
+}
